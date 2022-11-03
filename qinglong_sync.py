@@ -29,6 +29,7 @@ class QingLong():
             else:
                 return requests.get(url, headers = self._getHeaders(), proxies = self.proxies, params = data).json()
         except Exception as e:
+            print('配置错误，请检查配置')
             print('Error:', e)
             exit()
 
