@@ -63,3 +63,9 @@ ql repo https://github.com/sorry510/qinglong_sync
 
 > 运行一次 `qinglong_sync.py` 这个任务, 就可以完成同步
 >ps: 注意完成同步后删除或禁用这2个定时任务，否则会发生多次同步
+
+
+#### 接口文档参考
+
+https://github.com/whyour/qinglong/tree/develop/back/api
+https://qinglong.ukenn.top/#/
