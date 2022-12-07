@@ -37,13 +37,13 @@
 
 ```
 ## sync qinglong
-export ql_origin_url = "http://A地址"
-export ql_origin_client_id = "xxx"
-export ql_origin_client_secret = "xxx"
+export ql_origin_url="http://A地址"
+export ql_origin_client_id="xxx"
+export ql_origin_client_secret="xxx"
 
-export ql_target_url = "http://A地址"
-export ql_target_client_id = "xxx"
-export ql_target_client_secret = "xxx"
+export ql_target_url="http://A地址"
+export ql_target_client_id="xxx"
+export ql_target_client_secret="xxx"
 ```
 
 
